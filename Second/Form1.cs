@@ -21,5 +21,10 @@ namespace Second
         {
             Close();
         }
+
+        private void Second_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
